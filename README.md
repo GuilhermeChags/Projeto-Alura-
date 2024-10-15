@@ -31,7 +31,7 @@ Para visualizar o projeto localmente, você precisará de:
 
 Você pode visualizar o projeto diretamente através do link de deploy na **Vercel**:
 
-- [Acesse a página aqui](#) (substituir com o link do projeto na Vercel).
+- [Acesse a página aqui] (https://projeto-alura-flame.vercel.app).
 
 ### Estrutura de Arquivos
 
